@@ -1,5 +1,7 @@
 abstract class ContaBancaria {
 
+    // Classe Abstrata da Conta Cancário com atributos e metodos
+
     private String numeroConta;
     private double saldo;
     private double limiteEmprestimo;
